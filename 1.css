@@ -1,0 +1,67 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 100%;
+	height: 100vh;
+	background: url(leaves.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	}
+	
+
+    nav{
+		padding: 15px 0px;
+		display: flex;
+		justify-content: space-between;
+	}
+	
+	head{
+   background-color:blue 
+	}
+
+    .left:{
+
+      display: flex;
+    }
+
+.left img{
+	width: 170px;
+	height: auto;margin-right: 35px
+}
+
+.left ul li{
+	display: inline-block;
+	line-height: 2.7;
+	margin:  0px 60px;
+	font-family: font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.right button{
+	border: none;width: 94px;
+	height: 40px;
+	color: #12b7cb;
+	font-family: font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+
+}
+ .container{
+
+    width: 1140px;
+    margin: auto;
+ }
+ .nav2{
+
+ 	font-family: 'Roboto', sans-serif;
+padding-top: 150px;
+ }
+ 
+
+
+
